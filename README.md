@@ -1,8 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=charlescleyton)
 ### Olá! Eu sou Charles Pereira 👋
-
-- 🔭 Analista Desenvolvedor atuando com PHP | Laravel | SQL | Node.Js | Javascript ...
+Seja bem vindo!
+Comecei a pouco a publicar projetos por aqui, segue aí algumas de minhas habilidades: 
 - 🌱 Bacharel em Sistemas de Informação e Tecnologo em Sistemas para Internet
+- 🔭 Analista Desenvolvedor atuando com PHP | Laravel | SQL | Node.Js | Javascript ...
 - 👯 Contate-me nas minhas redes: https://linktr.ee/charlescleyton
 - 😄 Pronomes: ele/dele
 
