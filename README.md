@@ -1,7 +1,10 @@
-![](https://komarev.com/ghpvc/?username=charlescleyton)
-### Olá! Eu sou Charles Pereira 👋
-Seja bem vindo!
-Comecei a pouco a publicar projetos por aqui, segue aí algumas de minhas habilidades: 
+### Olá! Eu sou Charles Pereira <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+[![Linkedin Badge](https://img.shields.io/badge/-charlescleyton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlescleyton/)](https://www.linkedin.com/in/charlescleyton/)
+[![Instagram Badge](https://img.shields.io/badge/-charlescleyton-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/charlescleyton/)](https://instagram.com/charlescleyton)
+[![Gmail Badge](https://img.shields.io/badge/-charles.pereira.ti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charles.pereira.ti@gmail.com)](mailto:charles.pereira.ti@gmail.com)
+![](https://komarev.com/ghpvc/?username=charlescleyton)<br>
+<img align="right" height="150px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+Comecei a pouco a publicar projetos por aqui, segue aí algumas de minhas habilidades:
 - 🌱 Bacharel em Sistemas de Informação e Tecnologo em Sistemas para Internet
 - 🔭 Analista Desenvolvedor atuando com PHP | Laravel | SQL | Node.Js | Javascript ...
 - 👯 Contate-me nas minhas redes: https://linktr.ee/charlescleyton
