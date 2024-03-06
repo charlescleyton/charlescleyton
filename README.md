@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-charlescleyton-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/charlescleyton/)](https://instagram.com/charlescleyton)
 [![Gmail Badge](https://img.shields.io/badge/-charles.pereira.ti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charles.pereira.ti@gmail.com)](mailto:charles.pereira.ti@gmail.com)
 ![](https://komarev.com/ghpvc/?username=charlescleyton)<br>
-<img align="right" height="100px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="100px" alt="GIF" src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" />
 Comecei a pouco a publicar projetos por aqui, segue aí algumas de minhas habilidades:
 - 🌱 Bacharel em Sistemas de Informação e Tecnologo em Sistemas para Internet
 - 🔭 Analista Desenvolvedor atuando com PHP | Laravel | SQL | Node.Js | Javascript ...
