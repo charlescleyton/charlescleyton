@@ -9,15 +9,7 @@ Comecei a pouco a publicar projetos por aqui, segue aí algumas de minhas habili
 [![Linkedin Badge](https://img.shields.io/badge/-charlescleyton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlescleyton/)](https://www.linkedin.com/in/charlescleyton/)
 [![Instagram Badge](https://img.shields.io/badge/-charlescleyton-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/charlescleyton/)](https://instagram.com/charlescleyton)
 [![Gmail Badge](https://img.shields.io/badge/-charles.pereira.ti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charles.pereira.ti@gmail.com)](mailto:charles.pereira.ti@gmail.com)
-![](https://komarev.com/ghpvc/?username=charlescleyton)<br>
-
-<div>
- 
-  <a href="https://github.com/charlescleyton">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlescleyton&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescleyton&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-
+![](https://komarev.com/ghpvc/?username=charlescleyton)
 <br><div style="display: inline_block">
   <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -27,3 +19,11 @@ Comecei a pouco a publicar projetos por aqui, segue aí algumas de minhas habili
   <img align="center" alt="icon-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
 </div>
+
+<div>
+ 
+  <a href="https://github.com/charlescleyton">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlescleyton&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> -->
+  <img height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlescleyton&layout=pie&langs_count=7&theme=transparent"/>
+</div>
+
