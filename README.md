@@ -7,7 +7,6 @@ Comecei a pouco a publicar projetos por aqui, segue aí algumas de minhas habili
 - 👯 Contate-me nas minhas redes:
 
 [![Linkedin Badge](https://img.shields.io/badge/-charlescleyton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlescleyton/)](https://www.linkedin.com/in/charlescleyton/)
-[![Instagram Badge](https://img.shields.io/badge/-charlescleyton-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/charlescleyton/)](https://instagram.com/charlescleyton)
 [![Gmail Badge](https://img.shields.io/badge/-charles.pereira.ti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charles.pereira.ti@gmail.com)](mailto:charles.pereira.ti@gmail.com)
 ![](https://komarev.com/ghpvc/?username=charlescleyton)
 <br><div style="display: inline_block">
