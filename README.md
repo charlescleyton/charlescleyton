@@ -1,5 +1,5 @@
 ### Olá! Eu sou Charles Pereira <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-Comecei a pouco a publicar projetos por aqui, segue aí algumas de minhas habilidades:
+Segue aí algumas de minhas habilidades e projetos:
 <img align="right" height="100px" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 - 🌱 Bacharel em Sistemas de Informação e Tecnologo em Sistemas para Internet
 - 🔭 Analista Desenvolvedor atuando com PHP | Laravel | SQL | Node.Js | Javascript ...
